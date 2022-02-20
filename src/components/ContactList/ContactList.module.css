@@ -9,12 +9,3 @@
   padding: 15px;
   border-bottom: 1px dotted black;
 }
-
-.contactListData {
-  margin: 0 5px;
-}
-
-.contactListBtn {
-  padding: 5px 10px;
-  cursor: pointer;
-}
